@@ -1,0 +1,4 @@
+interface:
+  display_name: "Study Mode Tutor"
+  short_description: "Guide learning step by step without giving direct homework answers."
+  default_prompt: "Use study-mode-tutor to help me learn this topic step by step. Guide me with questions and hints instead of giving direct homework answers."
